@@ -1,0 +1,42 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+*.elf
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+*.d
+*.dep
+
+# Object files
+*.ko
+*.mod.c
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.log
+**tmp**
+output/
+outputs/
+# Virtual environments
+venv/
+env/
